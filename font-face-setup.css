@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'ViaBeautiful';
+    src: url('fonts/cultivated-mind-viva-beautiful-pro-webfont.eot'); /* IE9 Compat Modes */
+    src: url('fonts/cultivated-mind-viva-beautiful-pro-webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('fonts/cultivated-mind-viva-beautiful-pro-webfont.woff2') format('woff2'), /* Super Modern Browsers */
+         url('fonts/cultivated-mind-viva-beautiful-pro-webfont.woff') format('woff'), /* Pretty Modern Browsers */
+         url('fonts/cultivated-mind-viva-beautiful-pro.ttf')  format('truetype'), /* Safari, Android, iOS */
+         url('fonts/cultivated-mind-viva-beautiful-pro-webfont.svg#cultivated-mind-viva-beautiful-pro-webfont') format('svg'); /* Legacy iOS */
+}
